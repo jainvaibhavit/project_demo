@@ -1,2 +1,2 @@
 # project_demo
-demo project for testing purpose
+Adina College As ASST professor 18/july/2026
